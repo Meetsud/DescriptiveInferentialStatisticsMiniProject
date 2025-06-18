@@ -1,8 +1,6 @@
-# DescriptiveInferentialStatisticsMiniProject
-A hands-on project to understand and apply key statistical concepts like mean, median, mode, variance, confidence intervals, and hypothesis testing, using real-world datasets and manual calculations.
 # Descriptive and Inferential Statistics - Mini Project
 
-This mini project presents concise definitions of key statistical concepts that form the foundation of data analysis. It is designed for students and beginners who are getting started with statistics and data science.
+A hands-on project to understand and apply key statistical concepts like mean, median, mode, variance, confidence intervals, and hypothesis testing, using real-world datasets and manual calculations. This mini project presents concise definitions of key statistical concepts that form the foundation of data analysis. It is designed for students and beginners who are getting started with statistics and data science.
 
 ## 📌 Project Overview
 
